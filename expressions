@@ -1,0 +1,15 @@
+public class expressions{
+
+public static void main (String [] args){
+
+int x = 3;
+int y = 4;
+int solution = x + y;
+
+System.out.println("The solution is: "+solution);
+
+
+
+  }
+}
+
